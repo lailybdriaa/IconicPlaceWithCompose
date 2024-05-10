@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Iconic Place With Compose</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="home_page">home_page</string>
+    <string name="favorite_page">favorite_page</string>
+    <string name="about_page">about_page</string>
+    <string name="favorite_empty">Belum ada tempat favorite</string>
+
+    <string name="my_name">LAILY BARDIA</string>
+    <string name="my_email">lailybadriasrgr22@gmail.com</string>
+    <string name="my_univ">Universitas Darma Persada</string>
+    <string name="my_jurusan">Teknologi Informasi</string>
+
+    <string name="city">Kota : %s</string>
+    <string name="year">Tahun : %s</string>
+
+    <string name="search_iconic_place">Search Iconic Place</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_favorite">Tambahkan ke Favorit</string>
+    <string name="remove_from_favorite">Hapus dari Favorit</string>
+    <string name="total_order">Total pesanan : %d Pts</string>
+    <string name="back">Back</string>
+    <string name="dicoding_reward">Dicoding Reward</string>
+    <string name="share_message">Hey, I have redeem %1$d rewards in Dicoding with total %2$d Points. Do you want too?</string>
+</resources>
